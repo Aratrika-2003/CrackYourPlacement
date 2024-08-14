@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class Sol {
     private class BinaryIndexedTree
     {
         final private int[] tree;
