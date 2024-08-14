@@ -1,6 +1,6 @@
 // import java.util.*;
 
-class Solution 
+class Solu 
 {
     public int celebrity(int mat[][]) 
     {
