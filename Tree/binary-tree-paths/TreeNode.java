@@ -16,7 +16,8 @@ public class TreeNode {
     }
 }
 
-class Solution {
+class Solution 
+{
     private void dfs(TreeNode root,String path,List<String> pathToleaf)
     {
         // if(root == null)
